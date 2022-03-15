@@ -6,7 +6,6 @@ package questao1;
  */
 public class Colaborador {
     
-    private String cargo;
     private String nome;
     private int idade;
     private double salario;
